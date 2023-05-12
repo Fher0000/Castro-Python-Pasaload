@@ -1,5 +1,5 @@
 # Castro-Python-Pasaload
-Python program (Pasaload acitivity)
+#Python program (Pasaload acitivity)
 import threading
 import multiprocessing
 import time
